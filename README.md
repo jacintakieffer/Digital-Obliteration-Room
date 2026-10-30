@@ -37,8 +37,11 @@
 #### After:
 <img width="739" height="489" alt="Screenshot 2026-10-29 at 9 33 39 am" src="https://github.com/user-attachments/assets/8faefd82-c82d-49f9-9fc1-c82949d2e3ac" />
 
-
 ## Setup
+#### Requirements
+* Must have [Processing](https://processing.org/download) downloaded with Python Mode installed.
+
+#### Getting Started
 
 ## Usage
 
