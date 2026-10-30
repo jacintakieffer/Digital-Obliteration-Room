@@ -9,7 +9,6 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
@@ -42,11 +41,10 @@
 * Must have [Processing](https://processing.org/download) downloaded with Python Mode installed.
 
 #### Getting Started
+1. Download Final_Digital_Obliteration_Room/Final_Digital_Obliteration_Room.pyde 
 
 ## Usage
 
 ## Project Status
-
-## Room for Improvement
 
 ## Acknowledgements
