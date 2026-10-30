@@ -16,7 +16,7 @@
 * My *Digital Obliteration Room* was designed to make Kusama's exhibit everlasting and more accessible. Instead of needing to travel to the physical and finite exhibit, users can now "obliterate" blank spaces with colour whenever they would like. 
 * The purpose is to explore audience participation and how a space can be creatively changed through many small, repeated actions.
 * My project gained even more purpose when finding out that Kusama unfortunately passed away as I was developing my sketches. The intention has now shifted to a tribute to Kusama, and her artistic joy that lives on in my *Digital Obliteration Room*.
-* Multiple files have been attached to showcase the development of this project. The correct and final file is named **Final_Digital_Obliteration_Room**.
+* Multiple files have been attached to showcase the development of this project. **Trialling_rectangle_shapes_and_colours_** and **Trialling_interactive_circles** display earlier stages of the project. The correct and final file is named **Final_Digital_Obliteration_Room**.
 
 ## Technologies Used
 * Processing - version 4.x using Python. 
@@ -49,6 +49,7 @@
 6. Press **Run**
 
 ## Usage
+
 
 ## Project Status
 
