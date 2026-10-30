@@ -41,9 +41,12 @@
 * Must have [Processing](https://processing.org/download) downloaded with Python Mode installed.
 
 #### Getting Started
-1. Download or copy file named **Final_Digital_Obliteration_Room**
-2. Open the `.pyde` file in Processing
-3. Press **Run**
+1. Download image named **blank room.jpg** (located under data folder inside **Final_Digital_Obliteration_Room**)
+2. Download or copy file named **Final_Digital_Obliteration_Room**
+3. Open the `.pyde` file in Processing
+4. Save it (Press command S)
+5. To ensure the image loads as the background: with Processing opened, on the menu bar select **Sketch**, **Add File...** and upload **blank room.jpg** . 
+6. Press **Run**
 
 ## Usage
 
