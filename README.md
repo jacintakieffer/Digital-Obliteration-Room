@@ -49,6 +49,11 @@
 6. Press **Run**
 
 ## Usage
+The overall idea is simple: **Select a colour, place a sticker (circle) of that colour**.
+
+In more detail:
+* Mouse click on coloured rectangle &rarr; White outline will appear to indicate that colour has been selected &rarr; Colour has been selected
+* 
 
 
 ## Project Status
