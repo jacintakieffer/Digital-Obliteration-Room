@@ -23,6 +23,12 @@
 * Processing - version 4.x using Python. 
 
 ## Features
+* A background photo of the original *Obliteration Room* (pre-stickers) fills the canvas (1400 x 900).
+* Six colour options to mimic the original exhibit (pink, red, orange, yellow, green, blue) are placed as rectangles in a column on the left.
+* A white outline will indicate once a colour swatch has been selected.
+* Once selected, the user can press anywhere on the room and a circle of that colour will appear.
+* Each circle has a randomised diameter between 10 and 40 pixels.
+* To clear the room and start again, press `c`. 
 
 ## Screenshots
 #### Before:
