@@ -1,31 +1,31 @@
-# Final-Digital-Obliteration-Room
+# <ins>Digital Obliteration Room</ins> 
 
-# header H1
-## header H2
-### header H3
-#### header H4
-##### header H5
-###### header H6
+## Table of Contents
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
+* [General Information](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
 
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
+## General Information
+
+## Technologies Used
+
+## Features
+
+## Screenshots
+
 ## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+## Usage
+
+## Project Status
+
+## Room for Improvement
+
+## Acknowledgements
