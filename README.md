@@ -53,9 +53,17 @@ The overall idea is simple: **Select a colour, place a sticker (circle) of that 
 
 In more detail:
 * Mouse click on coloured rectangle &rarr; White outline will appear to indicate that colour has been selected &rarr; Colour has been selected
-* 
-
+* Mouse click anywhere on the blank room background &rarr; A circle of the selected colour will appear in a randomised size between a diameter of 10-40.
+* Circles can be placed anywhere inside the room except for on top of the rectangle colour swatches. An endless amount of circles can be placed, and they may be layered on top of each other. (see [Screenshots](#screenshots) for reference)
+* With this in mind, users can create any design they wish with circular shapes -- eg flowers, rainbows etc. 
+* To clear all circles, press `C`
 
 ## Project Status
+* Project is complete.
 
 ## Acknowledgements
+* This project was inspired by Yayoi Kusama's exhibit *Obliteration Room*.
+* **blank room.jpg**: Photographed by C Callistemon © QAGOMA <https://www.qagoma.qld.gov.au/stories/the-obliteration-room-by-yayoi-kusama-is-transformed/>
+* This tutorial <https://processing.org/tutorials/interactivity> aided my project significantly. 
+* Many thanks for reading and enjoy Obliterating your screen with colour!
+  
