@@ -41,7 +41,9 @@
 * Must have [Processing](https://processing.org/download) downloaded with Python Mode installed.
 
 #### Getting Started
-1. Download Final_Digital_Obliteration_Room/Final_Digital_Obliteration_Room.pyde 
+1. Download or copy file named **Final_Digital_Obliteration_Room**
+2. Open the `.pyde` file in Processing
+3. Press **Run**
 
 ## Usage
 
