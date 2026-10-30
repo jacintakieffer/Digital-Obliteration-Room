@@ -27,7 +27,7 @@
 * A white outline will indicate once a colour swatch has been selected.
 * Once selected, the user can press anywhere on the room and a circle of that colour will appear.
 * Each circle has a randomised diameter between 10 and 40 pixels.
-* To clear the room and start again, press `c`. 
+* To clear the room and start again, press `C`. 
 
 ## Screenshots
 #### Before:
@@ -44,7 +44,7 @@
 1. Download image named **blank room.jpg** (located under data folder inside **Final_Digital_Obliteration_Room**)
 2. Download or copy file named **Final_Digital_Obliteration_Room**
 3. Open the `.pyde` file in Processing
-4. Save it (Press command S)
+4. Save it (Press `command` + `S`)
 5. To ensure the image loads as the background: with Processing opened, on the menu bar select **Sketch**, **Add File...** and upload **blank room.jpg** . 
 6. Press **Run**
 
