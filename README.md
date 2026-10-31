@@ -64,6 +64,7 @@ In more detail:
 ## Acknowledgements
 * This project was inspired by Yayoi Kusama's exhibit *Obliteration Room*.
 * **blank room.jpg**: Photographed by C Callistemon © QAGOMA <https://www.qagoma.qld.gov.au/stories/the-obliteration-room-by-yayoi-kusama-is-transformed/>
-* This tutorial <https://processing.org/tutorials/interactivity> aided my project significantly. 
+* This tutorial <https://processing.org/tutorials/interactivity> aided my project significantly.
+* Structure of README file inspired by <https://github.com/ritaly/README-cheatsheet/blob/master/README.md>
 * Many thanks for reading and enjoy Obliterating your screen with colour!
   
